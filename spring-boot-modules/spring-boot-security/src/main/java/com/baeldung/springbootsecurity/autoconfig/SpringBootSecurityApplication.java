@@ -9,6 +9,7 @@ import org.springframework.boot.autoconfigure.security.servlet.SecurityAutoConfi
   //    ,ManagementWebSecurityAutoConfiguration.class
 }, scanBasePackages = "com.baeldung.springbootsecurity.autoconfig")
 public class SpringBootSecurityApplication {
+    //test file commit
     public static void main(String[] args) {
         SpringApplication.run(SpringBootSecurityApplication.class, args);
     }
